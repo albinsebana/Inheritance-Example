@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\bin\Debug\InheritancePoc.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\bin\Debug\InheritancePoc.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\bin\Debug\InheritancePoc.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\obj\Debug\InheritancePoc.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\obj\Debug\InheritancePoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\obj\Debug\InheritancePoc.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\obj\Debug\InheritancePoc.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\InheritancePoc\InheritancePoc\obj\Debug\InheritancePoc.pdb
